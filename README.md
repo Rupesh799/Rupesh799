@@ -29,6 +29,7 @@ I primarily work with the **React/Next.js ecosystem** and enjoy turning ideas in
 * Strapi
 * Prisma
 * MySQL
+* Python
 
 **Mobile**
 
